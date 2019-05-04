@@ -26,6 +26,7 @@
   "homepage": "https://github.com/Gaearaz/workshop-protractor-psl#readme",
   "dependencies": {
     "@types/node": "^11.13.8",
+    "jasmine-spec-reporter": "^4.2.1",
     "protractor": "^5.4.2"
   },
   "devDependencies": {
