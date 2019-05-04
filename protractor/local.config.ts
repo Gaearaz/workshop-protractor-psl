@@ -16,4 +16,3 @@ export const config: Config = {
 >>>>>>> Mejorando el primer caso de prueba
   }
 };
-
